@@ -1,18 +1,9 @@
 # vue-crash-2021
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
+### Run these commands in two terminals for the app to function.
 ```
 npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
+npm run backend
 ```
 
 ### Customize configuration
